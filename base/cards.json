@@ -1,0 +1,63 @@
+[
+	{
+    "name": "Cs2 Прайм Авторег", 
+    "cnt":221, 
+    "price":2.9, 
+    "img":"../svg icon pres/icon2cs.svg",
+    "cat": "cs", 
+    "id":1,
+    "cart":0,
+    "section": "steam"
+    },
+	{
+    "name": "Dota 2 перелив",
+    "cnt":200, 
+    "price":2.9, 
+    "img":"../svg icon pres/icon3dota.svg", 
+    "cat":"dota", 
+    "id":2, 
+    "cart":0, 
+    "section": "steam"},
+    {
+        "name": "Brawl Stars 21000 кубков",
+        "cnt":200, 
+        "price":2.9, 
+        "img":"../svg icon pres/icon3dota.svg", 
+        "cat":"dota", 
+        "id":3, 
+        "cart":0, 
+        "section": "steam"
+    },
+    {
+        "name": "Steam account оффлайн аккаунт",
+        "cnt":200, 
+        "price":2.9, 
+        "img":"../svg icon pres/icon3dota.svg", 
+        "cat":"dota", 
+        "id":2, 
+        "cart":4, 
+        "section": "steam"
+    },
+    {
+        "name": "Steam account оффлайн аккаунт",
+        "cnt":200, 
+        "price":2.9, 
+        "img":"../svg icon pres/icon3dota.svg", 
+        "cat":"dota", 
+        "id":2, 
+        "cart":4, 
+        "section": "steam"
+    },
+    {
+        "name": "Steam account оффлайн аккаунт",
+        "cnt":200, 
+        "price":2.9, 
+        "img":"../svg icon pres/icon3dota.svg", 
+        "cat":"dota", 
+        "id":2, 
+        "cart":4, 
+        "section": "steam"
+    }
+    
+    
+]

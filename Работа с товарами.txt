@@ -1,0 +1,7 @@
+Карточки товаров будут хранится в cards, бд карт будет также в самом cards
+будет включать
+let products = [
+	{name: "Vk Autoreg", cnt:220, price:$2.9, img:"../svg icon pres/icon1.svg"},
+	{name: "Vk Autoreg", cnt:221, price:$2.9, img:"../svg icon pres/icon1.svg"},
+	{name: "Vk Autoreg", cnt:200, price:$2.9, img:"../svg icon pres/icon1.svg"}
+]

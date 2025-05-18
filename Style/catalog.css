@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  font-family: 'Gilroy', Arial, sans-serif;
+}
+.containerCards{
+    max-width: 1400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+.textCategory {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-left: 20px;
+}
+.btnFilter{
+  display: flex;
+  justify-content: left;
+  padding: 0 80px;
+}
+.btnFilter button{
+  width: 56px;
+  height: 36px;
+  border: 0px;
+  border-radius:10px ;
+  cursor: pointer;
+}
+.btnFilter:hover button{
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
